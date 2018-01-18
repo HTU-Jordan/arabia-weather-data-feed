@@ -1,9 +1,9 @@
 # Arabia Weather Data Feed
 
-### Station Link on Arabia Weather
+## Station Link on Arabia Weather
 <http://stations.arabiaweather.com/station/mgzmi788>
 
-### Python Script `send_data.py`  
+## Python Script `send_data.py`  
 Open `send_data.py` to see the code that sends data every 15 seconds to ArabiaWeather.  
 Username and password have been replaced with ********.  
 
