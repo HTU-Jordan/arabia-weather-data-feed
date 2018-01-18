@@ -1,6 +1,6 @@
 # Arabia Weather Data Feed
 
-![]
+![station.png]
 
 ## Station Link on Arabia Weather
 <http://stations.arabiaweather.com/station/mgzmi788>
